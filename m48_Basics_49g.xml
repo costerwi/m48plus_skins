@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<m48SkinFile>
+	<global>
+		<title>m49g Minimal</title>
+		<author>Carl Osterwisch</author>
+		<copyright>Copyright (C) 2012 Carl Osterwisch</copyright>
+		<message>Minimal design.</message>
+		<license>m48 Skin License applies. See http://www.mksg.de/m48SkinLicense.html for details.</license>
+		<hardware>Yorke</hardware>
+        <model>X</model> <!-- HP49 -->
+        <framerate>24</framerate>
+		<rom>
+            <filename>/ROMs/HP49G/rom.49g</filename>
+			<patch>
+				<filename>/ROMs/HP49G/beeppatch.49g</filename>
+			</patch>
+        </rom>
+		<soundfiles>
+				<soundfile>
+				<id>1</id>
+				<filename>../Sounds/tock.wav</filename>
+			</soundfile>
+		</soundfiles>
+		<beeptype>triangle</beeptype>
+		<lcdsettings>
+			<colors>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				
+				<color><red> 60</red><green> 65</green><blue>118</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha> 52</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>102</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>153</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>204</alpha></color>
+				
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>204</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>153</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>102</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha> 52</alpha></color>
+				<color><red>133</red><green>172</green><blue>162</blue><alpha>255</alpha></color>
+				
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				
+				
+				
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				
+				<color><red>133</red><green>172</green><blue>162</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha> 52</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>102</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>153</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>204</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+				<color><red> 60</red><green> 65</green><blue>118</blue><alpha>255</alpha></color>
+				
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+				<color><red>  0</red><green>  0</green><blue>  0</blue><alpha>  0</alpha></color>
+			</colors>
+		</lcdsettings>
+	</global>
+    
+    <orientations>
+        <orientation>
+            <portrait />
+
+            <viewport>
+                <origin><x>      0</x>    <y>       0</y>     </origin>
+                <size>	<width>320</width><height>480</height></size>
+            </viewport>
+            
+            <texturefile>
+                <filename>m48_Basics_49g.png</filename>
+            </texturefile>
+
+            <statusbar>
+                <style>blackTranslucent</style>
+            </statusbar>         
+              
+            <background>
+                <color><red> 50</red><green> 67</green><blue> 70</blue><alpha>255</alpha></color>
+            </background>
+            
+			<lcds>
+				<lcd>
+					<zorder>20</zorder>		
+					<screen>
+						<origin><x>      0</x>    <y>      20</y>     </origin>
+						<size>	<width>320</width><height>155</height></size>
+					</screen>
+				</lcd>
+            </lcds>
+			
+            <faces>
+                <face>
+                    <!-- Background for lcd -->
+                    <zorder>19</zorder>
+					<screen>
+						<origin><x>      0</x>    <y>      20</y>     </origin>
+						<size>	<width>320</width><height>155</height></size>
+					</screen>
+					<color><red>112</red><green>157</green><blue>114</blue><alpha>255</alpha></color>
+                </face>	
+                <face>
+					<!-- basic view --> 
+                    <zorder>10</zorder>
+                    <logics>
+                        <logic>000XXX</logic>
+                    </logics>
+                    <texture>
+                        <!-- lower left of texture - character labels --> 
+                        <origin><x>      0</x>    <y>     700</y>     </origin>
+                        <size>	<width>320</width><height>324</height></size>
+                    </texture>
+                    <screen>
+                        <!-- where to display characters --> 
+                        <origin><x>      0</x>    <y>     156</y>     </origin>
+                        <size>	<width>320</width><height>324</height></size>
+                    </screen>
+					<color><red>255</red><green>255</green><blue>255</blue><alpha>255</alpha></color>
+                </face>
+				
+                <face>
+					<!-- shift right view --> 
+                    <zorder>10</zorder>
+                    <logics>
+                        <logic>010XXX</logic>
+                    </logics>
+                    <texture>
+                        <origin><x>    320</x>    <y>     700</y>     </origin>
+                        <size>	<width>320</width><height>324</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>      0</x>    <y>     156</y>     </origin>
+                        <size>	<width>320</width><height>324</height></size>
+                    </screen>
+					<color><red>255</red><green>255</green><blue>255</blue><alpha>255</alpha></color>
+                </face>
+
+                <face>
+					<!-- shift left view --> 
+                    <zorder>10</zorder>
+                    <logics>
+                        <logic>100XXX</logic>
+                    </logics>
+                    <texture>
+                        <origin><x>    640</x>    <y>     700</y>     </origin>
+                        <size>	<width>320</width><height>324</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>      0</x>    <y>     156</y>     </origin>
+                        <size>	<width>320</width><height>324</height></size>
+                    </screen>
+					<color><red>255</red><green>255</green><blue>255</blue><alpha>255</alpha></color>
+                </face>
+				
+                <face>
+					<!-- alpha view --> 
+                    <zorder>30</zorder>
+                    <logics>
+                        <logic>001XXX</logic>
+                    </logics>
+                    <texture>
+                        <origin><x>      0</x>    <y>     340</y>     </origin>
+                        <size>	<width>320</width><height>324</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>      0</x>    <y>     156</y>     </origin>
+                        <size>	<width>320</width><height>324</height></size>
+                    </screen>
+					<color><red>255</red><green>255</green><blue>255</blue><alpha>255</alpha></color>
+                </face>
+				
+                <face>
+					<!-- alpha shift right view --> 
+                    <zorder>30</zorder>
+                    <logics>
+                        <logic>011XXX</logic>
+                    </logics>
+                    <texture>
+                        <origin><x>    320</x>    <y>     340</y>     </origin>
+                        <size>	<width>320</width><height>324</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>      0</x>    <y>     156</y>     </origin>
+                        <size>	<width>320</width><height>324</height></size>
+                    </screen>
+					<color><red>255</red><green>255</green><blue>255</blue><alpha>255</alpha></color>
+                </face>
+
+                <face>
+					<!-- alpha shift left view --> 
+                    <zorder>30</zorder>
+                    <logics>
+                        <logic>101XXX</logic>
+                    </logics>
+                    <texture>
+                        <origin><x>    640</x>    <y>     340</y>     </origin>
+                        <size>	<width>320</width><height>324</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>      0</x>    <y>     156</y>     </origin>
+                        <size>	<width>320</width><height>324</height></size>
+                    </screen>
+					<color><red>255</red><green>255</green><blue>255</blue><alpha>255</alpha></color>
+                </face>
+            </faces>
+
+            <buttons>
+                <button>
+                    <!-- MENU -->
+                    <type>menu</type>
+                    <zorder>70</zorder>
+                    <toucharea>
+                        <origin><x>      2</x>    <y>      21</y>     </origin>
+                        <size>	<width>316</width><height>125</height></size>
+                    </toucharea>
+                    <sensors>
+                        <sensorpreset>doubleTap</sensorpreset>
+                    </sensors>
+                </button>
+                <button>
+                    <!-- LEFT -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+                    <toucharea>
+                        <origin><x>      2</x>    <y>      21</y>     </origin>
+                        <size>	<width>316</width><height>125</height></size>
+                    </toucharea>
+                    <sensors>
+                        <sensorpreset>swipeInsideLeft</sensorpreset>
+                    </sensors>
+                    <out>6</out><in>4</in>
+                </button>
+                <button>
+                    <!-- RIGHT -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+                    <toucharea>
+                        <origin><x>      2</x>    <y>      21</y>     </origin>
+                        <size>	<width>316</width><height>125</height></size>
+                    </toucharea>
+                    <sensors>
+                        <sensorpreset>swipeInsideRight</sensorpreset>
+                    </sensors>
+                    <out>6</out><in>1</in>
+                </button>
+                <button>
+                    <!-- UP -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+                    <toucharea>
+                        <origin><x>      2</x>    <y>      21</y>     </origin>
+                        <size>	<width>316</width><height>125</height></size>
+                    </toucharea>
+                    <sensors>
+                        <sensorpreset>swipeInsideUp</sensorpreset>
+                    </sensors>
+                    <out>6</out><in>8</in>
+                </button>
+                <button>
+                    <!-- DOWN -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+                    <toucharea>
+                        <origin><x>      2</x>    <y>      21</y>     </origin>
+                        <size>	<width>316</width><height>125</height></size>
+                    </toucharea>
+                    <sensors>
+                        <sensorpreset>swipeInsideDown</sensorpreset>
+                    </sensors>
+                    <out>6</out><in>2</in>
+                </button>
+                <button>
+                    <!-- NEXT -->
+                    <type>virtual</type>
+                    <zorder>71</zorder>
+                    <logics>
+                        <logic>000XXX</logic>
+                    </logics>
+                    <toucharea>
+                        <origin><x>      1</x>    <y>      156</y>     </origin>
+                        <size>	<width>316</width><height>36</height></size>
+                    </toucharea>
+                    <sensors>
+                        <sensorpreset>swipeInsideLeft</sensorpreset>
+                    </sensors>
+                    <actions>
+                        <action><buttonid>26</buttonid><trigger /></action> <!-- L -->
+                    </actions>
+                </button>
+                <button>
+                    <!-- PREV -->
+                    <type>virtual</type>
+                    <zorder>71</zorder>
+                    <logics>
+                        <logic>000XXX</logic>
+                    </logics>
+                    <toucharea>
+                        <origin><x>      1</x>    <y>      156</y>     </origin>
+                        <size>	<width>316</width><height>36</height></size>
+                    </toucharea>
+                    <sensors>
+                        <sensorpreset>swipeInsideRight</sensorpreset>
+                    </sensors>
+                    <actions>
+                        <action><buttonid>71</buttonid><trigger /></action> <!-- left shift -->
+                        <action><buttonid>26</buttonid><trigger /></action> <!-- L -->
+                    </actions>
+                </button>
+					
+                <button>
+                    <!-- A -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>     64</x>    <y>     196</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>      1</x>    <y>     156</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </screen>
+                    <color><red>  0</red><green>  0</green><blue>0</blue><alpha>255</alpha></color>
+                    <out>5</out><in>1</in>
+					<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- B -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>     64</x>    <y>     196</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>     54</x>    <y>     156</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>5</out><in>2</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- C -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>     64</x>    <y>     196</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    107</x>    <y>     156</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>5</out><in>4</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- D -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>     64</x>    <y>     196</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    160</x>    <y>     156</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>5</out><in>8</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- E -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>     64</x>    <y>     196</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    213</x>    <y>     156</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>5</out><in>16</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- F -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>     64</x>    <y>     196</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    266</x>    <y>     156</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>5</out><in>32</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+
+                <button>
+                    <!-- G -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>     64</x>    <y>     196</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>      1</x>    <y>     192</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>5</out><in>128</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- H -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>     64</x>    <y>     196</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>     54</x>    <y>     192</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>4</out><in>128</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- I -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>     64</x>    <y>     196</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    107</x>    <y>     192</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>3</out><in>128</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- J -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>     64</x>    <y>     196</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    160</x>    <y>     192</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>2</out><in>128</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- K -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>     64</x>    <y>     196</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    213</x>    <y>     192</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>1</out><in>128</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- L -->
+                    <id>26</id>
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>     64</x>    <y>     196</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    266</x>    <y>     192</y>     </origin>
+                        <size>  <width> 53</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>0</out><in>128</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                
+                <button>
+                    <!-- M -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>      1</x>    <y>     228</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>4</out><in>64</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- N -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>     64</x>    <y>     228</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>3</out><in>64</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+
+                <button>
+                    <!-- O -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    128</x>    <y>     228</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>2</out><in>64</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+
+                <button>
+                    <!-- P -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    192</x>    <y>     228</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>1</out><in>64</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- DROP -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    256</x>    <y>     228</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>0</out><in>64</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+
+
+                <button>
+                    <!-- Q -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>      1</x>    <y>     264</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>4</out><in>32</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- R -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>     64</x>    <y>     264</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>3</out><in>32</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                
+                <button>
+                    <!-- S -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    128</x>    <y>     264</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>2</out><in>32</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- T -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    192</x>    <y>     264</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>1</out><in>32</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- U -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    256</x>    <y>     264</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>0</out><in>32</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+
+
+                <button>
+                    <!-- V -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>      1</x>    <y>     300</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>4</out><in>16</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- W -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>     64</x>    <y>     300</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>3</out><in>16</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- X -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    128</x>    <y>     300</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>2</out><in>16</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- Y -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    192</x>    <y>     300</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>1</out><in>16</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- Z -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    256</x>    <y>     300</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>0</out><in>16</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+
+               
+                <button>
+                    <!-- alpha -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>      0</x>    <y>     336</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>7</out><in>8</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- 7 -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>     64</x>    <y>     336</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>3</out><in>8</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- 8 -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    128</x>    <y>     336</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>2</out><in>8</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- 9 -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    192</x>    <y>     336</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>1</out><in>8</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- * -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    256</x>    <y>     336</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>0</out><in>8</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                
+                <button>
+                    <!-- shift left -->
+                    <id>71</id>
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>      0</x>    <y>     372</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>7</out><in>4</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- 4 -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>     64</x>    <y>     372</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>3</out><in>4</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- 5 -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    128</x>    <y>     372</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>2</out><in>4</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- 6 -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    192</x>    <y>     372</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>1</out><in>4</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- - -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    256</x>    <y>     372</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>0</out><in>4</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                
+                <button>
+                    <!-- shift right -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>      1</x>    <y>     408</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>7</out><in>2</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- 1 -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>     64</x>    <y>     408</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>3</out><in>2</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- 2 -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    128</x>    <y>     408</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>2</out><in>2</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- 3 -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    192</x>    <y>     408</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>1</out><in>2</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- + -->
+                    <type>normal</type>
+                    <zorder>70</zorder><zorder>6</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    256</x>    <y>     408</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>0</out><in>2</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                
+                <button>
+                    <!-- ON -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>      1</x>    <y>     444</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>0</out><in>32768</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- 0 -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>     64</x>    <y>     444</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>3</out><in>1</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- . -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    128</x>    <y>     444</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>2</out><in>1</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- SPC -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    192</x>    <y>     444</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>1</out><in>1</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+                <button>
+                    <!-- ENTER -->
+                    <type>normal</type>
+                    <zorder>70</zorder>
+					<texture>
+                        <origin><x>    128</x>    <y>     196</y>     </origin>
+                        <size>  <width> 64</width><height> 36</height></size>
+                    </texture>
+                    <screen>
+                        <origin><x>    256</x>    <y>     444</y>     </origin>
+                        <size>  <width>64</width><height> 36</height></size>
+                    </screen>
+                    <color><red>0</red><green>  0</green><blue>  0</blue><alpha>255</alpha></color>
+                    <out>0</out><in>1</in>
+                	<sound>
+						<ondown>1</ondown>
+					</sound>
+                </button>
+            </buttons>
+        </orientation>
+        <orientation>
+            <landscape />   
+              
+            <background>
+                <!-- <color><red>193</red><green>202</green><blue>205</blue><alpha>255</alpha></color> -->
+                <color><red>112</red><green>157</green><blue>114</blue><alpha>255</alpha></color>
+            </background>
+            
+            <statusbar>
+                <style>default</style>
+            </statusbar>  
+			
+			<lcds>
+				<lcd>
+					<zorder>1</zorder>
+					<screen>
+						<origin><x>     43</x>    <y>      64</y>     </origin>
+						<size>	<width>393</width><height>192</height></size>
+					</screen>
+				</lcd>
+			</lcds>
+			
+            <buttons>
+                <button>
+                    <!-- MENU -->
+                    <type>menu</type>
+                    <zorder>70</zorder>
+                    <screen>
+						<origin><x>     43</x>    <y>      64</y>     </origin>
+						<size>	<width>393</width><height>192</height></size>
+					</screen>
+                </button>
+			</buttons>
+        </orientation>
+    </orientations>
+        
+</m48SkinFile>
